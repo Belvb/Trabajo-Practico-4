@@ -1,0 +1,19 @@
+
+
+div#formulario {
+  position: relative;
+font-size: 17px;
+top: 1em;
+right: 5%;
+}
+div form {
+
+display:inline-block;
+float: left;
+}
+div form .boton {
+  position: relative;
+  top: 2.5em;
+  right: 50%;
+  font-size: 15px;
+}
